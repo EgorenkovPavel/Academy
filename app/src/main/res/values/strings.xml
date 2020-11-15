@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Academy</string>
     <string name="age_limit">13+</string>
-    <string name="title">Avengers: \n End Game</string>
+    <string name="title">Avengers: End Game</string>
     <string name="genre">Action, Adventure, Fantasy</string>
     <string name="views_count">125 Reviews</string>
     <string name="storyline_header">Storyline</string>
