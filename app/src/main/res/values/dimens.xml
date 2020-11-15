@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_margin">16dp</dimen>
+    <dimen name="poster_height">298dp</dimen>
+    <dimen name="content_top_margin">226dp</dimen>
+    <dimen name="title_top_margin">12dp</dimen>
+    <dimen name="genre_top_margin">4dp</dimen>
+    <dimen name="views_count_top_margin">4dp</dimen>
+    <dimen name="views_count_left_margin">8dp</dimen>
+    <dimen name="storyline_header_top_margin">24dp</dimen>
+    <dimen name="storyline_decription_top_margin">4dp</dimen>
+    <dimen name="cast_header_top_margin">24dp</dimen>
+    <dimen name="actor_top_margin">6dp</dimen>
+    <dimen name="actor_name_top_margin">6dp</dimen>
+    <dimen name="space_beetwin_actors">8dp</dimen>
+    <dimen name="back_button_top_margin">32dp</dimen>
+</resources>
