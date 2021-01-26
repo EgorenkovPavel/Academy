@@ -17,5 +17,6 @@
     <style name="RatingBar" parent="android:style/Widget.Material.RatingBar.Small">
         <item name="colorControlNormal">#6D6D80</item>
         <item name="colorControlActivated">#FF3365</item>
+
     </style>
 </resources>

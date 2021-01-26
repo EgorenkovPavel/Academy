@@ -12,4 +12,8 @@
     <string name="actor3_name">Mark Ruffalo</string>
     <string name="actor4_name">Chris Hemsworth</string>
     <string name="back">Back</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_list">Movie list</string>
+    <string name="film_duration">137 MIN</string>
 </resources>
